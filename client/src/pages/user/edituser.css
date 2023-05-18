@@ -1,0 +1,9 @@
+.editarusuario {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.editarusuario input {
+  margin: 15px;
+}/*# sourceMappingURL=edituser.css.map */

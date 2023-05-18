@@ -1,0 +1,47 @@
+.viajes2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.viajes2 .viajes {
+  margin: 10px;
+  padding: 50px;
+  border: 1px solid black;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  color: white;
+}
+
+.fotos {
+  height: 150px;
+  width: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.misfotos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.delete {
+  position: absolute;
+  margin: 60px;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.contimg {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}/*# sourceMappingURL=viajes.css.map */

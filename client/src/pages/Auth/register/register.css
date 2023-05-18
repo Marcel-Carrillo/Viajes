@@ -1,0 +1,14 @@
+.register {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 50px;
+  border: 5px white solid;
+  border-radius: 20px;
+  margin: auto;
+  width: 30vw;
+  height: auto;
+  text-align: center;
+  color: black;
+}/*# sourceMappingURL=register.css.map */
